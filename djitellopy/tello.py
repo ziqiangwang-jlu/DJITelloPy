@@ -42,7 +42,7 @@ class Tello:
 
     # Video stream, server socket
     VS_UDP_IP = '0.0.0.0'
-    DEFAULT_VS_UDP_PORT = 11111
+    DEFAULT_VS_UDP_PORT = 9000
     VS_UDP_PORT = DEFAULT_VS_UDP_PORT
 
     CONTROL_UDP_PORT = 8889
